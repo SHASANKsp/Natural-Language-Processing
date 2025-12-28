@@ -1,2 +1,7 @@
-# NaturalLanguageProcessing-Healthcare
-NLP related projects in healthcare domain
+# Natural Language Processing based projects
+ 
+|Projects|
+|:----------------:|  
+|Disaster tweets classification|  
+|Mental health classification|  
+|Autism Spectrum Disorder Detection|  

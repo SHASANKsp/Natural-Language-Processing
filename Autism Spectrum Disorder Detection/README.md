@@ -131,7 +131,7 @@ The attention mechanism allows the model to focus on diagnostically informative 
 
 * The LSTM-based models successfully learned discriminative patterns from short behavioral text descriptions.
 <div align="center">
-<img src="lstm.png" width="800" height="300" />    
+<img src="LSTM.png" width="800" height="300" />    
 </div>
 
 * Incorporating **Bidirectional LSTM and attention** improved the model’s ability to capture contextual and semantically salient information, leading to more stable validation performance compared to a unidirectional LSTM.
